@@ -1,0 +1,15 @@
+{
+  "name": "pin_encryptor",
+  "version": "1.0.0",
+  "description": "pin_encryptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Test\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-forge": "^1.3.1"
+  }
+}
